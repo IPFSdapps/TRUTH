@@ -1,0 +1,2 @@
+# TRUTH
+oracle of validation
