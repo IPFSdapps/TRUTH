@@ -12,7 +12,7 @@ This paper presents the **Practical Truth** framework, a complete, multi-layered
 
 ---
 
-## 1. Introduction: From Validation to a Self-Sustaining Economy
+## Introduction: From Validation to a Self-Sustaining Economy
 
 The core promise of blockchain, **"Code is Law,"** creates unparalleled trust for on-chain operations. This trust shatters at the edge of the real world, creating the "oracle problem." Furthermore, sustaining decentralized infrastructure requires a viable economic model that avoids reliance on inflationary rewards or centralized subsidies.
 
@@ -24,7 +24,7 @@ The Practical Truth framework solves these problems through a unified architectu
 
 This paper provides a complete blueprint for this system, from the initial client-side spark to the final on-chain settlement and economic distribution.
 
-## 2. The Multi-Layered Architecture of Truth
+## The Multi-Layered Architecture of Truth
 
 The journey of a data point from a raw observation to a valuable, immutable asset follows a clear, three-layer progression.
 
@@ -83,7 +83,7 @@ Data that accumulates significant LUV proves its social value and becomes a cand
 -   **Action:** A consumer (or a protocol mechanism) pays a fee in a hard asset (e.g., USDC) to permanently settle the high-LUV truth claim on-chain. This transaction triggers the economic waterfall.
 -   **Output:** An immutable on-chain record and a distribution of hard currency to stakeholders.
 
-## 3. The SHAMBA LUV Dual-Token Economy
+## The SHAMBA LUV Dual-Token Economy
 
 The framework's economy is powered by two distinct but interconnected assets.
 
@@ -157,6 +157,7 @@ contract TruthMarket {
         }
     }
 }
-4. Conclusion: An Economy of Appreciation
+```
+Conclusion: An Economy of Appreciation
 The Practical Truth framework provides a complete blueprint for a decentralized truth machine fueled by human appreciation. It moves beyond sterile validation to create a vibrant ecosystem where participants are empowered and incentivized. By integrating the abundant SHAMBA LUV token, we turn the act of validation into a social gesture, allowing the community itself to signal what is valuable.
 This creates a powerful, bottom-up system where the most appreciated and useful information naturally rises, captures real economic value, and rewards those who brought it to light. This is not just a technical framework; it is a design for a living, self-funding, and self-improving information ecosystem driven by the most human of interactions: a simple gesture of appreciation.
