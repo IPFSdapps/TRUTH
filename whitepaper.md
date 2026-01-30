@@ -157,3 +157,14 @@ contract TruthMarket {
 Conclusion: An Economy of Appreciation
 The Practical Truth framework provides a complete blueprint for a decentralized truth machine fueled by human appreciation. It moves beyond sterile validation to create a vibrant ecosystem where participants are empowered and incentivized. By integrating the abundant SHAMBA LUV token, we turn the act of validation into a social gesture, allowing the community itself to signal what is valuable.
 This creates a powerful, bottom-up system where the most appreciated and useful information naturally rises, captures real economic value, and rewards those who brought it to light. This is not just a technical framework; it is a design for a living, self-funding, and self-improving information ecosystem driven by the most human of interactions: a simple gesture of appreciation.
+
+todo
+LUV vault
+LUV locker
+bundle LUV
+LUV multisend
+LUV incentivisor
+work for LUV
+earn LUV
+collect LUV
+one LUV is one LUV what is LUV when it is in packages of 1 trillion? Think about 1 000 000 000 000 LUV
